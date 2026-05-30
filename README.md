@@ -2,8 +2,8 @@
 
 ---
 
-- 🔭 **Working**: Web Develoment with Angular
-- 🌱 **Learning**: Angular, Microfrontend, Full Stack Development
+- 🔭 **Working**: Web Develoment with Angular and Node.js APIs
+- 🌱 **Learning**: SDD, AI tooling
 - 😄 **Pronouns**: She/Her
 - 💬 **Ask me about**: tech, memes, music
 
