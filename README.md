@@ -3,7 +3,7 @@
 ---
 
 - 🔭 **Working**: Web Develoment with Angular and Node.js APIs
-- 🌱 **Learning**: SDD, AI tooling
+- 🌱 **Learning**: SDD, AI tooling, Event Driven Architecture
 - 😄 **Pronouns**: She/Her
 - 💬 **Ask me about**: tech, memes, music
 
